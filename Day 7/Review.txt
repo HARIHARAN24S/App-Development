@@ -1,2 +1,0 @@
-On Day-7, 
-	Review was carried out for the Admin Dahsboard page's UI and usage of Redux in the project's components.
